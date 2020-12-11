@@ -1,0 +1,21 @@
+﻿ variante:
+
+1. fisierul: Asimov - Eu, robotul_1.txt - corect; Asimov - Eu, robotul_2.txt 91 de litere ț sunt înlocuite cu litere t.
+
+2. fisierul: Asimov - A doua fundatie_1.txt - corect; Asimov - A doua fundatie_2.txt 107 spații între cuvinte sunt eliminate din text.
+
+3.  fisierul: Asimov - O piatra pe cer_1.txt - corect; Asimov - O piatra pe cer_2.txt 148 de litere ă sunt înlocuite cu litere a.
+
+4. fisierul: Anderson - Operatiunea Haos_1.txt - corect;  Anderson - Operatiunea Haos_2.txt 76 cratime sunt inserate în cuvintele textulu.
+
+5. fisierul: Asimov - Fundatia si Imperiul_1.txt - corect; Asimov - Fundatia si Imperiul_2.txt 234 de litere ș sunt înlocuite cu litere s.
+
+6. fisierul: Asimov - Fundatia_1.txt - corect; Asimov - Fundatia_2.txt 135 cratime sunt eliminate din text.
+
+7. fisierul: Blandiana, Ana - Autoportret cu palimpsest_1.txt - corect; Blandiana, Ana - Autoportret cu palimpsest_2.txt 468 schimbări de două litere sunt inserate în cuvintele textulu.
+ 
+8. fisierul: Asimov - Marginea Fundatiei_1.txt - corect; Asimov - Marginea Fundatiei_2.txt 142 de litere î sunt înlocuite cu litere i.
+
+9. Blandiana, Ana - Coridoare de oglinzi_1.txt - corect; Blandiana, Ana - Coridoare de oglinzi_2.txt 255 de litere sunt pierdute în cuvintele textulu.
+
+10. fisierul: Card - Jocul lui Ender_1.txt - corect;  Card - Jocul lui Ender_2.txt 164 litere suplimentare sunt inserate în cuvintele textulu.
