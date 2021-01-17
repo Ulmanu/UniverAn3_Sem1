@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-04-01" view-index="0" gantt-divider-location="439" resource-divider-location="300" version="2.8.11" locale="en_GB">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2021-06-01" view-index="0" gantt-divider-location="659" resource-divider-location="545" version="2.8.11" locale="en_GB">
     <description/>
-    <view zooming-state="default:11" id="gantt-chart">
-        <field id="tpd3" name="Name" width="218" order="0"/>
-        <field id="tpd4" name="Begin date" width="109" order="1"/>
-        <field id="tpd5" name="End date" width="108" order="2"/>
+    <view zooming-state="default:9" id="gantt-chart">
+        <field id="tpd3" name="Name" width="283" order="0"/>
+        <field id="tpd4" name="Begin date" width="179" order="1"/>
+        <field id="tpd5" name="End date" width="178" order="2"/>
         <option id="color.recent">
             <![CDATA[#ff9900 #999900 #99cc00 #ccccff #ffcccc #990000 #009999 #00cccc #ccffcc #ff3333]]>
         </option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="210" order="0"/>
-        <field id="1" name="Default role" width="86" order="1"/>
+        <field id="0" name="Name" width="332" order="0"/>
+        <field id="1" name="Default role" width="209" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -36,7 +36,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="116" name="Să se cerceteze domeniul problematic, problema" color="#ccffcc" meeting="false" start="2021-01-01" duration="12" complete="0" thirdDate="2021-01-01" thirdDate-constraint="0" expand="true">
+        <task id="116" name="Să se cerceteze domeniul problematic, problema" color="#ccffcc" meeting="false" start="2021-01-01" duration="12" complete="0" thirdDate="2021-01-01" thirdDate-constraint="0" expand="false">
             <task id="118" name="Creăm echipele și repartizăm funcțiile" color="#ccffcc" meeting="false" start="2021-01-01" duration="2" complete="0" thirdDate="2021-01-01" thirdDate-constraint="0" expand="true"/>
             <task id="120" name="Colectăm informația necesară" color="#ccffcc" meeting="false" start="2021-01-04" duration="7" complete="0" thirdDate="2021-01-01" thirdDate-constraint="0" expand="true"/>
             <task id="122" name="Selectăm datele necesare" color="#ccffcc" meeting="false" start="2021-01-12" duration="5" complete="0" thirdDate="2021-01-01" thirdDate-constraint="0" expand="true"/>
