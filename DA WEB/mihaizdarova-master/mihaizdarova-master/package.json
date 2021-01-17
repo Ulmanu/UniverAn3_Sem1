@@ -1,0 +1,115 @@
+{
+  "name": "angular-bootstrap-md",
+  "version": "10.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "_from": "angular-bootstrap-md",
+  "_id": "angular-bootstrap-md@10.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-4zeNqnR6w1DnHp49LdKeI92IhSJXR7h/fYNPaNMchQe8GPBrCB6/9LRlrb4O5qd0SWzTNmEw2MariQ4xQWDTtg==",
+  "_location": "/angular-bootstrap-md",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular-bootstrap-md",
+    "name": "angular-bootstrap-md",
+    "escapedName": "angular-bootstrap-md",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-bootstrap-md/-/angular-bootstrap-md-10.0.0.tgz",
+  "_shasum": "5e800e58fbb16846a36fc9195f377762fd1c9199",
+  "_spec": "angular-bootstrap-md",
+  "_where": "E:\\webang\\online-museum",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@angular/animations": "~10.1.2",
+    "@angular/cdk": "^10.2.1",
+    "@angular/common": "~10.1.2",
+    "@angular/compiler": "~10.1.2",
+    "@angular/core": "~10.1.2",
+    "@angular/forms": "~10.1.2",
+    "@angular/platform-browser": "~10.1.2",
+    "@angular/platform-browser-dynamic": "~10.1.2",
+    "@angular/router": "~10.1.2",
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@types/chart.js": "^2.9.24",
+    "angular-bootstrap-md": "^10.0.0",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.5.2",
+    "chart.js": "^2.5.0",
+    "hammerjs": "^2.0.8",
+    "node-sass": "^4.14.1",
+    "postcss-cli": "^7.1.2",
+    "postcss-loader": "^4.0.2",
+    "resolve-url-loader": "^3.1.1",
+    "rxjs": "~6.6.0",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.10.2"
+  },
+  "deprecated": false,
+  "description": "<a href=\"http://mdbootstrap.com/docs/angular/getting-started/download/\"><img src=\"https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-angular2.png\"></a> # Angular Bootstrap with Material Design",
+  "es2015": "fesm2015/angular-bootstrap-md.js",
+  "esm2015": "esm2015/angular-bootstrap-md.js",
+  "fesm2015": "fesm2015/angular-bootstrap-md.js",
+  "files": [
+    "**/*"
+  ],
+  "homepage": "https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design#readme",
+  "main": "bundles/angular-bootstrap-md.umd.js",
+  "metadata": "angular-bootstrap-md.metadata.json",
+  "module": "fesm2015/angular-bootstrap-md.js",
+  "ng-update": {
+    "migrations": "./schematics/migration.json"
+  },
+  "peerDependencies": {
+    "@angular/common": "^10.0.0",
+    "@angular/core": "^10.0.0",
+    "@angular/animations": "^10.0.0",
+    "@angular/forms": "^10.0.0",
+    "@angular/cdk": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design.git"
+  },
+  "schematics": "./schematics/collection.json",
+  "sideEffects": false,
+  "typings": "angular-bootstrap-md.d.ts",
+  "private": true,
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~0.1001.2",
+    "@angular/cli": "~10.1.2",
+    "@angular/compiler-cli": "~10.1.2",
+    "@types/node": "^12.11.1",
+    "@types/jasmine": "~3.5.0",
+    "@types/jasminewd2": "~2.0.3",
+    "codelyzer": "^6.0.0",
+    "jasmine-core": "~3.6.0",
+    "jasmine-spec-reporter": "~5.0.0",
+    "karma": "~5.0.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage-istanbul-reporter": "~3.0.2",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "^1.5.0",
+    "protractor": "~7.0.0",
+    "ts-node": "~8.3.0",
+    "tslint": "~6.1.0",
+    "typescript": "~4.0.2"
+  }
+}

@@ -1,0 +1,43 @@
+<div class="alert alert-secondary alert-dismissible fade show" role="alert" id="myAlert">
+  <p id="response"></p>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+
+<div class="text-center" id="brandName">
+  <a class="navbar-brand" routerLink="" id="logo">
+    <img class="wow fadeInUpBig" src="images/logo/logo1.png" alt="an image of logo" width="60%">
+    <hr class="style-one">
+  </a>
+</div>
+<nav class="navbar navbar-expand-lg sticky-top navShadow wow fadeIn">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#pageNav" aria-controls="pageNav" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-bars"></i>
+  </button>
+  <div class="collapse navbar-collapse" id="pageNav">
+    <ul class="navbar-nav mx-auto">
+      <li class="nav-item" [routerLinkActive]="['active']">
+        <a class="nav-link" routerLink="">HOME
+          <span class="sr-only">(current)</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#subscribe">CONTACTS</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">COLLECTIONS</a>
+        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="#western">WESTERN ART</a>
+          <a class="dropdown-item" href="#kenyan">SOUTHERN ART</a>
+        </div>
+      </li>
+      <li class="nav-item" [routerLinkActive]="['active']">
+        <a class="nav-link" routerLink="/login"><span></span>Login</a>
+      </li>
+      <li class="nav-item" [routerLinkActive]="['active']">
+        <a class="nav-link" routerLink="/register"><span></span>Register</a>
+      </li>
+    </ul>
+  </div>
+</nav>

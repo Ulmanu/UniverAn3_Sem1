@@ -1,0 +1,14 @@
+p {
+  margin: 0 25px 1rem;
+}
+.card-columns{
+  margin-left: 25px;
+  margin-right: 25px;
+  column-count: 3;
+  column-gap: 1.25rem;
+  orphans: 1;
+  widows: 1;
+}
+div.map{
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: transparent;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: ease .3s;
+  font-family: 'Pathway Gothic One', Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 1.728rem;
+  text-decoration: line-through;
+}
+button:hover {
+  color: palevioletred;
+  text-decoration: none;
+}
