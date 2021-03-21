@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="DA WEB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DA WEB/mihaizdarova-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DA WEB/SpringBootLearning-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DA WEB/spring-boot-fileupload.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DA WEB/spring-data-jpa-one2many-join-example-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DA WEB/WebUniver-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DA WEB/angular-canvasjs-chart-samples.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DA WEB/webhueta-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

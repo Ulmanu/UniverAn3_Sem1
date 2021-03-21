@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SIA/Game2048/Game2048.iml" filepath="$PROJECT_DIR$/SIA/Game2048/Game2048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIA/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/SIA/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIA/SIA.iml" filepath="$PROJECT_DIR$/SIA/SIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniverAn3_Sem1.iml" filepath="$PROJECT_DIR$/UniverAn3_Sem1.iml" />
+    </modules>
+  </component>
+</project>

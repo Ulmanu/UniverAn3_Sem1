@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SIA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SIA/Keras-Recurrent-Neural-Network-Python-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SIA/Python-Project-Traffic-Sign-Classification.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

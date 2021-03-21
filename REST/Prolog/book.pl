@@ -1,0 +1,38 @@
+book(anna_karenina, 1887).
+book(suflete_moarte, 1842).
+book(fratii_karamazov, 1880).
+book(revizor, 1836).
+book(palata_nr_6, 1892).
+book(trei_muschetari, 1844).
+book(ruslan_si_ludmila, 1820).
+book(soarta_omului, 1957).
+book(trei_surori, 1900).
+
+
+author(anna_karenina, 'lev_tolstoi').
+author(suflete_moarte, 'nikolai_gogol').
+author(fratii_karamazov, 'feodor_dostoevski').
+author(revizor, 'nikolai_gogol').
+author(palata_nr_6, 'anton_cehov').
+author(trei_muschetari, 'alexandr_diuma').
+
+redactor(anna_karenina, 'tudor', 'Lumina').
+redactor(suflete_moarte, 'eugeniu', 'Prut').
+redactor(fratii_karamazov, 'radu', 'Prut').
+redactor(revizor, 'tudor','Lumina').
+redactor(palata_nr_6, 'victor', 'Cartier').
+redactor(trei_muschetari, 'eugeniu', 'Lumina').
+redactor(ruslan_si_ludmila, 'victor', 'Cartier').
+redactor(soarta_omului, 'radu', 'Prut').
+redactor(trei_surori, 'eugeniu','Prut').
+
+pictor(anna_karenina, 'picasso', 'Lumina').
+pictor(suflete_moarte, 'rembrandt', 'Prut').
+pictor(fratii_karamazov, 'ivanov', 'Prut').
+pictor(revizor, 'picasso','Lumina').
+pictor(palata_nr_6, 'rafael', 'Cartier').
+pictor(trei_muschetari, 'picasso', 'Lumina').
+pictor(ruslan_si_ludmila, 'rafael', 'Cartier').
+pictor(soarta_omului, 'rembrandt', 'Prut').
+pictor(trei_surori, 'ivanov','Prut').
+
